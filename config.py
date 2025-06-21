@@ -38,7 +38,7 @@ class config:
     
     #Database
     MONGODB_URI = "mongodb+srv://musicbotxd:musicbotxd@cluster0.6thyk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" # Use Local Hosted Or Atlas !!
-    DATABASE_NAME = "musicbot"
+    DATABASE_NAME = "musicbotxd"
 
     #API
     ARQ_API_KEY = "RLWCED-WZASYO-AWOLTB-ITBWTP-ARQ"
