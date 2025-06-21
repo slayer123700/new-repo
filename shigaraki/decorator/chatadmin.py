@@ -4,7 +4,7 @@ from functools import wraps
 from shigaraki import app , admin_cache , log
 from pyrogram.errors import RPCError
 import json
-from shigaraki.shigaraki import USER_NOT_ADMIN
+from shigaraki.yumeko import USER_NOT_ADMIN
 
 def load_sudoers():
     """Load the sudoers.json file dynamically."""
